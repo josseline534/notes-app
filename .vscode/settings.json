@@ -1,5 +1,12 @@
 {
   "search.exclude": {
     "**/.sst": true
-  }
+  },
+  "conventionalCommits.scopes": [
+    "functions",
+    "core",
+    "stacks",
+    "config",
+    "docs"
+  ]
 }
